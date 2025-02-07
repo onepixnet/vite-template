@@ -1,1 +1,1 @@
-# wp-frontend-vite
+# Vite template
